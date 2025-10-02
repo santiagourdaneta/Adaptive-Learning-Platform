@@ -1,0 +1,4 @@
+numpy
+scikit-learn
+tensorflow # or pytorch
+flask # for a simple API interface

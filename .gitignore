@@ -1,0 +1,25 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Go
+/go-api/learning_platform.db
+/go-api/bin/
+*.exe
+*.dll
+*.so
+*.o
+*.a
+*.lib
+go-api/go.sum
+go-api/go.mod
+
+# Python
+/python-ai/__pycache__/
+/python-ai/venv/
+*.pyc
+*.log
+
+# Rust
+/rust-engine/target/
+/rust-engine/Cargo.lock
